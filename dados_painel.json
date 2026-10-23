@@ -1,0 +1,16 @@
+{
+  "cultura": "Milho",
+  "local": "Rio Branco - AC",
+  "solo": "argiloso",
+  "irrigacao": "aspersão",
+  "umidade_solo": 20,
+  "chuva_24h": 0,
+  "et0": 4,
+  "kc": 0.5,
+  "umidade_minima": 25,
+  "umidade_ideal": 35,
+  "chuva_minima": 5,
+  "profundidade_raiz": 50,
+  "eficiencia_irrigacao": 0.8,
+  "area": 100
+}
